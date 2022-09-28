@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Blackjack"
         mc:Ignorable="d"
         Title="BlackJack" Height="540" Width="700">
-    <Grid>
+    <Canvas Name="MainCanvas">
         
-    </Grid>
+    </Canvas>
 </Window>
